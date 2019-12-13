@@ -1,1 +1,1 @@
-# GANs-things
+# generative models
